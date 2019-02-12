@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/UdacityVR/Scenes/UdacityModernApartment.unity
+  isLoaded: 1
+  isActive: 1
